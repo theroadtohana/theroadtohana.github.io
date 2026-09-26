@@ -1,0 +1,4 @@
+Put your files here:
+- Hana-CV.pdf  (linked from the 'View my CV' button)
+- profile.jpg  (optional portrait)
+- images for the Creative Work section
